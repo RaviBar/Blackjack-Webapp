@@ -12,8 +12,6 @@
 
 
 }
-
-
 .nav {
     box-sizing: border-box;
     text-decoration: none;
@@ -53,7 +51,6 @@ a {
     font-weight: 100;
     list-style-type: none;
     text-decoration: none;
-
 }
 
 h1 {
@@ -62,9 +59,6 @@ h1 {
     font-family: cursive;
     font-size: 40px;
     font-weight: 500;
-
-
-
 }
 
 h1:hover {
@@ -153,8 +147,6 @@ span.element5:hover {
     width: 21px;
     height: 22px;
     margin-left: 2px;
-
-
 }
 
 #nav-about img {
@@ -371,9 +363,6 @@ span.steps {
     margin-top: 5px;
     text-decoration: underline;
     text-align: left;
-
-
-
 }
 
 span.steps:hover {
@@ -389,8 +378,6 @@ p.container {
     font-weight: 30;
     text-align: left;
     padding-left: 15px;
-
-
 }
 
 .right-panel {
@@ -523,7 +510,6 @@ button.button2:hover {
     position: absolute;
     transform: translate(180%, 70%);
     scale: 50%;
-
 }
 
 .itemlist-item4 {
@@ -800,8 +786,7 @@ button.button3:hover {
     border-radius: 600px;
     scale: 135%;
     margin-top: 19%;
-    transform: skew(-14deg, 1deg);
-    
+    transform: skew(-14deg, 1deg); 
 }
 
 .fact-10 a {
@@ -833,10 +818,7 @@ button.button3:hover {
 
 .faq-section {
     background-color: #ffffff7a;
-
-
 }
-
 .faq {
     margin-top: 25px;
     display: inline-block;
@@ -850,15 +832,12 @@ button.button3:hover {
     background-color: black;
     padding: 10px;
     width: 115px;
-
-
 }
 
 .faq:hover {
     scale: 110%;
     transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
     transition: 0.6s;
-
 }
 
 .faq-definiton {
@@ -878,7 +857,6 @@ button.button3:hover {
     color: rgb(221, 221, 221);
     background-color: rgb(33, 29, 26);
     padding: 20px;
-
 }
 
 .faq-questions:hover {
@@ -907,8 +885,6 @@ button.button3:hover {
     background-color: #3b4355;
     color: rgb(200, 192, 192);
     margin-top: 50px;
-
-
 }
 
 .navbacktotop a {
@@ -917,9 +893,6 @@ button.button3:hover {
     padding: 10px;
     color: #ffffff;
     font-size: 20px;
-
-
-
 }
 
 .navbacktotop a:hover {
@@ -941,7 +914,6 @@ button.button3:hover {
     padding-top: 12px;
     padding-bottom: 12px;
     font-size: 20px;
-
 }
 
 .linkcoltag {
@@ -978,42 +950,42 @@ button.button3:hover {
     text-decoration: underline;
 }
 
-.ostomain {
+.community-help {
     padding-top: 12px;
     padding-bottom: 12px;
     font-size: 20px;
 }
 
-.osto {
+.explore {
     padding-top: 5px;
     padding-bottom: 4px;
 }
 
-.osto a {
+.explore a {
     color: white;
 }
 
-.osto a:hover {
+.explore a:hover {
     color: #ccc3c3;
     text-decoration: underline;
 }
 
-.columnmain {
+.policies {
     padding-top: 12px;
     padding-bottom: 12px;
     font-size: 20px;
 }
 
-.column {
+.policy {
     padding-top: 5px;
     padding-bottom: 4px;
 }
 
-.column a {
+.policy a {
     color: white;
 }
 
-.column a:hover {
+.policy a:hover {
     color: #ccc3c3;
     text-decoration: underline;
 }
